@@ -1,7 +1,0 @@
-*.db
-*.log
-*.iml
-target/
-bin/
-.idea
-test-output/
